@@ -1,0 +1,1 @@
+/home/hao/Desktop/accer/build-accer-Desktop_Qt_5_7_0_GCC_64bit-Default/CMakeFiles/accer.dir
